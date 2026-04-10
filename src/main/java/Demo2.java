@@ -10,6 +10,7 @@ public class Demo2 {
 
         System.out.println(1333);
         System.out.println("第一部分");
+        System.out.println("第七部分");
 
     }
 }

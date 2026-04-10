@@ -7,5 +7,7 @@ public class Demo2 {
         System.out.println("hellow tudou");
         System.out.println("add red");
         System.out.println("yellow");
+
+        System.out.println(1333);
     }
 }

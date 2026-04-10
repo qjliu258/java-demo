@@ -6,5 +6,7 @@ public class Demo {
         System.out.println("Hello qinqin");
         System.out.println("Hello tudou");
         System.out.println("Hello tudou");
+
+        System.out.println("1320");
     }
 }

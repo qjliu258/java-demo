@@ -9,5 +9,7 @@ public class Demo2 {
         System.out.println("yellow");
 
         System.out.println(1333);
+        System.out.println("第一部分");
+
     }
 }
